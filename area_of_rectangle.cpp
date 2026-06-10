@@ -6,18 +6,13 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(false);
 
-    float x, y;
+    float length, width;
+
     cout << "Enter the length of the rectangle: ";
-    cin >> x;
+    cin >> length;
     cout << "Enter the width of the rectangle: ";
-    cin >> y;
+    cin >> width;
 
-    cout << "The area of the rectangle is: " << x * y;
-    // if (y != 0) {
-    //     cout << "Quotient (Integer Division): " << x / y << '\n';
-    // } else {
-    //     cout << "Cannot calculate quotient: Division by zero!" << '\n';
-    // }
-
+    cout << "The area of the rectangle is: " << length * width;
     return 0;
 }
