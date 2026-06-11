@@ -1,4 +1,3 @@
-// Exercise 1: Arithmetic Operations
 #include <iostream>
 
 using namespace std;

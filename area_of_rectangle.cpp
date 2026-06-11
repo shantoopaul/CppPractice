@@ -1,4 +1,3 @@
-// Exercise 2: Area of Rectangle
 #include <iostream>
 
 using namespace std;
