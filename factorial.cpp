@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(false);
 
-    int n = 20;
+    int n = 5;
     long long fact = 1;
 
     if (n < 0) {
